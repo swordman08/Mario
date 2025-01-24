@@ -1,0 +1,582 @@
+k m x g m 
+c c m k g 
+B k x w k 
+m k m k x 
+m k g k c 
+==============
+c c g x B 
+g g x x k 
+c c m c k 
+k m k c c 
+c m x c x 
+==============
+Mario starts at (1, 0)
+==============
+k m x g m 
+H c m k g 
+B k x w k 
+m k m k x 
+m k g k c 
+==============
+Level: 0: Mario is at position: (1, 0). Mario collected a coin. 
+Power Level: 0, Lives: 3, Coins: 1. Mario moves DOWN.
+==============
+k m x g m 
+x c m k g 
+H k x w k 
+m k m k x 
+m k g k c 
+==============
+Level: 0: Mario is at position: (2, 0). Mario fought the level boss and won. 
+Power Level: 0, Lives: 3, Coins: 1. Level boss defeated voyaging to the next level.
+==============
+c c g x B 
+g g x x k 
+c c m c k 
+k H k c c 
+c m x c x 
+==============
+Level: 1: Mario is at position: (3, 1). Mario ate a mushroom
+Power Level: 1, Lives: 3, Coins: 1. Mario moves RIGHT.
+==============
+c c g x B 
+g g x x k 
+c c m c k 
+k x H c c 
+c m x c x 
+==============
+Level: 1: Mario is at position: (3, 2). Mario fought a koopa and won. 
+Power Level: 1, Lives: 3, Coins: 1. Mario moves RIGHT.
+==============
+c c g x B 
+g g x x k 
+c c m c k 
+k x x H c 
+c m x c x 
+==============
+Level: 1: Mario is at position: (3, 3). Mario collected a coin. 
+Power Level: 1, Lives: 3, Coins: 2. Mario moves RIGHT.
+==============
+c c g x B 
+g g x x k 
+c c m c k 
+k x x x H 
+c m x c x 
+==============
+Level: 1: Mario is at position: (3, 4). Mario collected a coin. 
+Power Level: 1, Lives: 3, Coins: 3. Mario moves LEFT.
+==============
+c c g x B 
+g g x x k 
+c c m c k 
+k x x H x 
+c m x c x 
+==============
+Level: 1: Mario is at position: (3, 3). The position is empty. 
+Power Level: 1, Lives: 3, Coins: 3. Mario moves LEFT.
+==============
+c c g x B 
+g g x x k 
+c c m c k 
+k x H x x 
+c m x c x 
+==============
+Level: 1: Mario is at position: (3, 2). The position is empty. 
+Power Level: 1, Lives: 3, Coins: 3. Mario moves DOWN.
+==============
+c c g x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c m H c x 
+==============
+Level: 1: Mario is at position: (4, 2). The position is empty. 
+Power Level: 1, Lives: 3, Coins: 3. Mario moves RIGHT.
+==============
+c c g x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c m x H x 
+==============
+Level: 1: Mario is at position: (4, 3). Mario collected a coin. 
+Power Level: 1, Lives: 3, Coins: 4. Mario moves LEFT.
+==============
+c c g x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c m H x x 
+==============
+Level: 1: Mario is at position: (4, 2). The position is empty. 
+Power Level: 1, Lives: 3, Coins: 4. Mario moves DOWN.
+==============
+c c H x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c m x x x 
+==============
+Level: 1: Mario is at position: (0, 2). Mario fought a goomba and won. 
+Power Level: 1, Lives: 3, Coins: 4. Mario moves LEFT.
+==============
+c H x x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c m x x x 
+==============
+Level: 1: Mario is at position: (0, 1). Mario collected a coin. 
+Power Level: 1, Lives: 3, Coins: 5. Mario moves UP.
+==============
+c x x x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c H x x x 
+==============
+Level: 1: Mario is at position: (4, 1). Mario ate a mushroom
+Power Level: 2, Lives: 3, Coins: 5. Mario moves UP.
+==============
+c x x x B 
+g g x x k 
+c c m c k 
+k H x x x 
+c x x x x 
+==============
+Level: 1: Mario is at position: (3, 1). The position is empty. 
+Power Level: 2, Lives: 3, Coins: 5. Mario moves DOWN.
+==============
+c x x x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c H x x x 
+==============
+Level: 1: Mario is at position: (4, 1). The position is empty. 
+Power Level: 2, Lives: 3, Coins: 5. Mario moves RIGHT.
+==============
+c x x x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c x H x x 
+==============
+Level: 1: Mario is at position: (4, 2). The position is empty. 
+Power Level: 2, Lives: 3, Coins: 5. Mario moves RIGHT.
+==============
+c x x x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c x x H x 
+==============
+Level: 1: Mario is at position: (4, 3). The position is empty. 
+Power Level: 2, Lives: 3, Coins: 5. Mario moves LEFT.
+==============
+c x x x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c x H x x 
+==============
+Level: 1: Mario is at position: (4, 2). The position is empty. 
+Power Level: 2, Lives: 3, Coins: 5. Mario moves LEFT.
+==============
+c x x x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c H x x x 
+==============
+Level: 1: Mario is at position: (4, 1). The position is empty. 
+Power Level: 2, Lives: 3, Coins: 5. Mario moves RIGHT.
+==============
+c x x x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c x H x x 
+==============
+Level: 1: Mario is at position: (4, 2). The position is empty. 
+Power Level: 2, Lives: 3, Coins: 5. Mario moves RIGHT.
+==============
+c x x x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c x x H x 
+==============
+Level: 1: Mario is at position: (4, 3). The position is empty. 
+Power Level: 2, Lives: 3, Coins: 5. Mario moves DOWN.
+==============
+c x x H B 
+g g x x k 
+c c m c k 
+k x x x x 
+c x x x x 
+==============
+Level: 1: Mario is at position: (0, 3). The position is empty. 
+Power Level: 2, Lives: 3, Coins: 5. Mario moves UP.
+==============
+c x x x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c x x H x 
+==============
+Level: 1: Mario is at position: (4, 3). The position is empty. 
+Power Level: 2, Lives: 3, Coins: 5. Mario moves LEFT.
+==============
+c x x x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c x H x x 
+==============
+Level: 1: Mario is at position: (4, 2). The position is empty. 
+Power Level: 2, Lives: 3, Coins: 5. Mario moves DOWN.
+==============
+c x H x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c x x x x 
+==============
+Level: 1: Mario is at position: (0, 2). The position is empty. 
+Power Level: 2, Lives: 3, Coins: 5. Mario moves UP.
+==============
+c x x x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c x H x x 
+==============
+Level: 1: Mario is at position: (4, 2). The position is empty. 
+Power Level: 2, Lives: 3, Coins: 5. Mario moves DOWN.
+==============
+c x H x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c x x x x 
+==============
+Level: 1: Mario is at position: (0, 2). The position is empty. 
+Power Level: 2, Lives: 3, Coins: 5. Mario moves UP.
+==============
+c x x x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c x H x x 
+==============
+Level: 1: Mario is at position: (4, 2). The position is empty. 
+Power Level: 2, Lives: 3, Coins: 5. Mario moves DOWN.
+==============
+c x H x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c x x x x 
+==============
+Level: 1: Mario is at position: (0, 2). The position is empty. 
+Power Level: 2, Lives: 3, Coins: 5. Mario moves UP.
+==============
+c x x x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c x H x x 
+==============
+Level: 1: Mario is at position: (4, 2). The position is empty. 
+Power Level: 2, Lives: 3, Coins: 5. Mario moves RIGHT.
+==============
+c x x x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c x x H x 
+==============
+Level: 1: Mario is at position: (4, 3). The position is empty. 
+Power Level: 2, Lives: 3, Coins: 5. Mario moves LEFT.
+==============
+c x x x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c x H x x 
+==============
+Level: 1: Mario is at position: (4, 2). The position is empty. 
+Power Level: 2, Lives: 3, Coins: 5. Mario moves DOWN.
+==============
+c x H x B 
+g g x x k 
+c c m c k 
+k x x x x 
+c x x x x 
+==============
+Level: 1: Mario is at position: (0, 2). The position is empty. 
+Power Level: 2, Lives: 3, Coins: 5. Mario moves DOWN.
+==============
+c x x x B 
+g g H x k 
+c c m c k 
+k x x x x 
+c x x x x 
+==============
+Level: 1: Mario is at position: (1, 2). The position is empty. 
+Power Level: 2, Lives: 3, Coins: 5. Mario moves RIGHT.
+==============
+c x x x B 
+g g x H k 
+c c m c k 
+k x x x x 
+c x x x x 
+==============
+Level: 1: Mario is at position: (1, 3). The position is empty. 
+Power Level: 2, Lives: 3, Coins: 5. Mario moves RIGHT.
+==============
+c x x x B 
+g g x x H 
+c c m c k 
+k x x x x 
+c x x x x 
+==============
+Level: 1: Mario is at position: (1, 4). Mario fought a koopa and lost. 
+Power Level: 1, Lives: 3, Coins: 5. Mario moves LEFT.
+==============
+c x x x B 
+g g x H k 
+c c m c k 
+k x x x x 
+c x x x x 
+==============
+Level: 1: Mario is at position: (1, 3). The position is empty. 
+Power Level: 1, Lives: 3, Coins: 5. Mario moves DOWN.
+==============
+c x x x B 
+g g x x k 
+c c m H k 
+k x x x x 
+c x x x x 
+==============
+Level: 1: Mario is at position: (2, 3). Mario collected a coin. 
+Power Level: 1, Lives: 3, Coins: 6. Mario moves RIGHT.
+==============
+c x x x B 
+g g x x k 
+c c m x H 
+k x x x x 
+c x x x x 
+==============
+Level: 1: Mario is at position: (2, 4). Mario fought a koopa and won. 
+Power Level: 1, Lives: 3, Coins: 6. Mario moves DOWN.
+==============
+c x x x B 
+g g x x k 
+c c m x x 
+k x x x H 
+c x x x x 
+==============
+Level: 1: Mario is at position: (3, 4). The position is empty. 
+Power Level: 1, Lives: 3, Coins: 6. Mario moves UP.
+==============
+c x x x B 
+g g x x k 
+c c m x H 
+k x x x x 
+c x x x x 
+==============
+Level: 1: Mario is at position: (2, 4). The position is empty. 
+Power Level: 1, Lives: 3, Coins: 6. Mario moves RIGHT.
+==============
+c x x x B 
+g g x x k 
+H c m x x 
+k x x x x 
+c x x x x 
+==============
+Level: 1: Mario is at position: (2, 0). Mario collected a coin. 
+Power Level: 1, Lives: 3, Coins: 7. Mario moves LEFT.
+==============
+c x x x B 
+g g x x k 
+x c m x H 
+k x x x x 
+c x x x x 
+==============
+Level: 1: Mario is at position: (2, 4). The position is empty. 
+Power Level: 1, Lives: 3, Coins: 7. Mario moves DOWN.
+==============
+c x x x B 
+g g x x k 
+x c m x x 
+k x x x H 
+c x x x x 
+==============
+Level: 1: Mario is at position: (3, 4). The position is empty. 
+Power Level: 1, Lives: 3, Coins: 7. Mario moves DOWN.
+==============
+c x x x B 
+g g x x k 
+x c m x x 
+k x x x x 
+c x x x H 
+==============
+Level: 1: Mario is at position: (4, 4). The position is empty. 
+Power Level: 1, Lives: 3, Coins: 7. Mario moves UP.
+==============
+c x x x B 
+g g x x k 
+x c m x x 
+k x x x H 
+c x x x x 
+==============
+Level: 1: Mario is at position: (3, 4). The position is empty. 
+Power Level: 1, Lives: 3, Coins: 7. Mario moves DOWN.
+==============
+c x x x B 
+g g x x k 
+x c m x x 
+k x x x x 
+c x x x H 
+==============
+Level: 1: Mario is at position: (4, 4). The position is empty. 
+Power Level: 1, Lives: 3, Coins: 7. Mario moves RIGHT.
+==============
+c x x x B 
+g g x x k 
+x c m x x 
+k x x x x 
+H x x x x 
+==============
+Level: 1: Mario is at position: (4, 0). Mario collected a coin. 
+Power Level: 1, Lives: 3, Coins: 8. Mario moves DOWN.
+==============
+H x x x B 
+g g x x k 
+x c m x x 
+k x x x x 
+x x x x x 
+==============
+Level: 1: Mario is at position: (0, 0). Mario collected a coin. 
+Power Level: 1, Lives: 3, Coins: 9. Mario moves LEFT.
+==============
+x x x x H 
+g g x x k 
+x c m x x 
+k x x x x 
+x x x x x 
+==============
+Level: 1: Mario is at position: (0, 4). Mario fought da boss and lost. 
+Power Level: 0, Lives: 3, Coins: 9. Mario moves DOWN.
+==============
+x x x x B 
+g g x x H 
+x c m x x 
+k x x x x 
+x x x x x 
+==============
+Level: 1: Mario is at position: (1, 4). Mario fought a koopa and won. 
+Power Level: 0, Lives: 3, Coins: 9. Mario moves RIGHT.
+==============
+x x x x B 
+H g x x x 
+x c m x x 
+k x x x x 
+x x x x x 
+==============
+Level: 1: Mario is at position: (1, 0). Mario lost to a Goomba. 
+Power Level: 0, Lives: 2, Coins: 9. Mario moves UP.
+==============
+H x x x B 
+g g x x x 
+x c m x x 
+k x x x x 
+x x x x x 
+==============
+Level: 1: Mario is at position: (0, 0). The position is empty. 
+Power Level: 0, Lives: 2, Coins: 9. Mario moves DOWN.
+==============
+x x x x B 
+H g x x x 
+x c m x x 
+k x x x x 
+x x x x x 
+==============
+Level: 1: Mario is at position: (1, 0). Mario fought a goomba and won. 
+Power Level: 0, Lives: 2, Coins: 9. Mario moves UP.
+==============
+H x x x B 
+x g x x x 
+x c m x x 
+k x x x x 
+x x x x x 
+==============
+Level: 1: Mario is at position: (0, 0). The position is empty. 
+Power Level: 0, Lives: 2, Coins: 9. Mario moves LEFT.
+==============
+x x x x H 
+x g x x x 
+x c m x x 
+k x x x x 
+x x x x x 
+==============
+Level: 1: Mario is at position: (0, 4). Mario fought da boss and lost. 
+Power Level: 0, Lives: 1, Coins: 9. Mario moves DOWN.
+==============
+x x x x B 
+x g x x H 
+x c m x x 
+k x x x x 
+x x x x x 
+==============
+Level: 1: Mario is at position: (1, 4). The position is empty. 
+Power Level: 0, Lives: 1, Coins: 9. Mario moves DOWN.
+==============
+x x x x B 
+x g x x x 
+x c m x H 
+k x x x x 
+x x x x x 
+==============
+Level: 1: Mario is at position: (2, 4). The position is empty. 
+Power Level: 0, Lives: 1, Coins: 9. Mario moves RIGHT.
+==============
+x x x x B 
+x g x x x 
+H c m x x 
+k x x x x 
+x x x x x 
+==============
+Level: 1: Mario is at position: (2, 0). The position is empty. 
+Power Level: 0, Lives: 1, Coins: 9. Mario moves LEFT.
+==============
+x x x x B 
+x g x x x 
+x c m x H 
+k x x x x 
+x x x x x 
+==============
+Level: 1: Mario is at position: (2, 4). The position is empty. 
+Power Level: 0, Lives: 1, Coins: 9. Mario moves UP.
+==============
+x x x x B 
+x g x x H 
+x c m x x 
+k x x x x 
+x x x x x 
+==============
+Level: 1: Mario is at position: (1, 4). The position is empty. 
+Power Level: 0, Lives: 1, Coins: 9. Mario moves UP.
+==============
+x x x x H 
+x g x x x 
+x c m x x 
+k x x x x 
+x x x x x 
+==============
+Level: 1: Mario is at position: (0, 4). Mario fought the level boss and won. 
+Power Level: 0, Lives: 1, Coins: 9. Mario will stay put and relax... Victory! The princess has been rescued, and the hero triumphs!
+Moves taken : 62
+==============
