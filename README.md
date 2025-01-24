@@ -12,6 +12,7 @@ Commands to compile / run:
 
 To compile
 1.      g++ *.cpp 
+
 To run
 2.      ./a.out
 
