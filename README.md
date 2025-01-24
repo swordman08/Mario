@@ -10,11 +10,12 @@ engaging a boss to move onto the next level. The user has no input besides the i
 
 Commands to compile / run:
 
-To compile
+To compile and than to run
 1.      g++ *.cpp 
 
-To run
 2.      ./a.out
+
+
 
 
 
