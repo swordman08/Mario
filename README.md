@@ -11,9 +11,9 @@ engaging a boss to move onto the next level. The user has no input besides the i
 Commands to compile / run:
 
 To compile
-    g++ *.cpp 
+1.      g++ *.cpp 
 To run
-    ./a.out
+2.      ./a.out
 
 
 
